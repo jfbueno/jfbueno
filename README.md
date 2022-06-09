@@ -6,10 +6,7 @@ Sou membro da [.NET Foundation](https://dotnetfoundation.org/), coorganizador do
 Tenho grande interesse em estruturas de dados, algoritmos, complexidade e programação funcional. 
 
 ---
-
-
-
-[![](https://github-readme-stackoverflow-peach.vercel.app/?userID=18246&site=pt.stackoverflow)]() 
+<a href="https://pt.stackoverflow.com/users/18246/j%c3%a9f-bueno"><img src="https://pt.stackoverflow.com/users/flair/18246.png" width="208" height="58" alt="perfil de J&#233;f Bueno em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de J&#233;f Bueno em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
 
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jfbueno.github.io/) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jfbueno) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@buenojeferson)
 
